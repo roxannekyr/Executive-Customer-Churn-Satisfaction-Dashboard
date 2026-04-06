@@ -51,8 +51,6 @@ A `Bridge_Table` was designed to handle **many-to-many cardinality** between pur
 
 > ⚠️ **Note on source data:** The intermediate analytical xls workbooks on which the PBI tables were finalized are intentionally excluded from this repository to protect data privacy. The `.pbix` file contains the final, structured data model and all calculations needed to explore the analysis. If you would like to discuss the underlying methodology in detail, please feel free to [reach out](#contact).
 
----
-
 ## 📸 Power BI Dashboard Preview
 
 | <img width="1328" height="753" alt="image" src="https://github.com/user-attachments/assets/11c7b171-85b3-4eb1-95db-bc119a4b955a" />
@@ -67,8 +65,8 @@ A `Bridge_Table` was designed to handle **many-to-many cardinality** between pur
 | Tool | Usage |
 |---|---|
 | **Power BI Desktop** | Dashboard design, DAX measures, interactive filtering |
-| **Excel (Advanced)** | Data modelling, Power QUERY, power pivots etc|
-| **Data Modelling** | Star schema design, bridge tables, many-to-many handling |
+| **Excel (Advanced)** | Data modelling, Power Query, power pivots etc|
+| **Data Modelling** | Star schema design, bridge table to handle many-to-many relathionships |
 | **Statistical Methods** | Recency-based churn definition, cohort retention curves |
 
 ## Key Business Insights Surfaced
