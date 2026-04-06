@@ -82,4 +82,4 @@ Interested in the methodology, the data model design, or a walkthrough?
 
 - 💼 Linkedin: https://linkedin.com/in/roxani-kiritsi/
 
-*Built with curiosity, structured thinking, and too many nested SUMIFS.*
+*Built with curiosity, structured thinking and too many nested SUMIFS.*
