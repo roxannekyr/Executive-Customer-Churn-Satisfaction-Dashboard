@@ -84,6 +84,6 @@ A `Bridge_Table` was designed to handle **many-to-many cardinality** between pur
 
 Interested in the methodology, the data model design, or a walkthrough?
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/roxani-kiritsi/)
+- 💼 [LinkedIn]: https://linkedin.com/in/roxani-kiritsi/
 
 *Built with curiosity, structured thinking, and too many nested SUMIFS.*
