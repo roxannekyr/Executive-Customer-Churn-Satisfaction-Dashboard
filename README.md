@@ -49,13 +49,11 @@ The model follows a **star schema** design principle.
 
 A `Bridge_Table` was designed to handle **many-to-many cardinality** between purchase dimensions (method, location, category, year, loyalty flag), enabling clean filtering across the dashboard without data duplication.
 
-> ⚠️ **Note on source data:** The raw and intermediate analytical workbooks are intentionally excluded from this repository to protect data privacy. The `.pbix` file contains the final, structured data model and all calculations needed to explore the analysis. If you would like to discuss the underlying methodology in detail, please feel free to [reach out](#contact).
+> ⚠️ **Note on source data:** The intermediate analytical xls workbooks on which the PBI tables were finalized are intentionally excluded from this repository to protect data privacy. The `.pbix` file contains the final, structured data model and all calculations needed to explore the analysis. If you would like to discuss the underlying methodology in detail, please feel free to [reach out](#contact).
 
 ---
 
 ## 📸 Power BI Dashboard Preview
-
-> 💡 *Screenshots below — click the `.pbix` file to explore the full interactive experience.*
 
 | <img width="1328" height="753" alt="image" src="https://github.com/user-attachments/assets/11c7b171-85b3-4eb1-95db-bc119a4b955a" />
 | <img width="1283" height="737" alt="image" src="https://github.com/user-attachments/assets/47387fb2-52de-4d86-a107-1d1d7de2cfcb" />
