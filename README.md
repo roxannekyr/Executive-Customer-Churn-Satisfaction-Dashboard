@@ -51,7 +51,7 @@ A `Bridge_Table` was designed to handle **many-to-many cardinality** between pur
 
 > ⚠️ **Note on source data:** The intermediate analytical with Power Query model xls workbook -on which the PBI tables was finalized- is intentionally excluded from this repository to protect data privacy. The `.pbix` file contains the final, structured data model and all calculations needed to explore the analysis. If you would like to discuss the underlying methodology in detail, please feel free to [reach out](#contact).
 
-## 📸 Power BI Dashboard Preview
+## Power BI Dashboard Preview
 
 | <img width="1328" height="753" alt="image" src="https://github.com/user-attachments/assets/11c7b171-85b3-4eb1-95db-bc119a4b955a" />
 | <img width="1283" height="737" alt="image" src="https://github.com/user-attachments/assets/47387fb2-52de-4d86-a107-1d1d7de2cfcb" />
