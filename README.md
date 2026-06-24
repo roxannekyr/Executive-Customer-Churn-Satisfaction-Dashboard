@@ -1,6 +1,6 @@
 # Customer Satisfaction & Churn Analytics Dashboard
 
-> **An end-to-end analytics project** covering data modelling, churn detection, loyalty segmentation, cohort analysis, and interactive Power BI reporting — built on retail transaction data across multiple Greek cities.
+> **An end-to-end analytics project** covering data modelling, churn detection, loyalty segmentation, cohort analysis, and interactive Power BI reporting - built on retail transaction data across multiple Greek cities.
 
 ## Project Overview
 
